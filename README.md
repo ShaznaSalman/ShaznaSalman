@@ -57,4 +57,4 @@ I'm Shazna Salman , a self-employed university student passionate about coding a
 
 ### How to Reach Me
 
-- 📫 You can reach out to me via email at sadaruwan0427@gmail.com. I'm also active on LinkedIn, so feel free to connect with me there: https://www.linkedin.com/in/ishan-sandaruwan-06632223a/  .
+- 📫 You can reach out to me via email at shaznasalman10@gmail.com. I'm also active on LinkedIn, so feel free to connect with me there: https://www.linkedin.com/in/shaznasalman10/  .
