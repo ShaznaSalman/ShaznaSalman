@@ -7,7 +7,7 @@
 
 ### About Me
 
-I'm Ishan Sandaruwan , a self-employed university student passionate about coding and technology. I enjoy working on various projects and learning new technologies.
+I'm Shazna Salman , a self-employed university student passionate about coding and technology. I enjoy working on various projects and learning new technologies.
 
 ### Technologies I Work With
 
@@ -43,13 +43,13 @@ I'm Ishan Sandaruwan , a self-employed university student passionate about codin
 <tr border="none">
 <td width="50%" align="center">
   
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=BreadcrumbsShaznaSalman&theme=light&show_icons=true&count_private=true" />
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=ShaznaSalman&theme=light&show_icons=true&count_private=true" />
   <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=BreadcrumbsShaznaSalman&theme=light&hide_border=false" /> 
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ShaznaSalman&theme=light&hide_border=false" /> 
 </td>
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=BreadcrumbsShaznaSalman&theme=light&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ShaznaSalman&theme=light&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
   
   </td>
 </tr>
