@@ -1,13 +1,14 @@
 ---
 <!--<p align="center" ><img  src = "20240308_221258_0000.png?raw=true" width = 1000px></p>-->
-<h1 align="center">Hi, I'm Shazna Salman</h1>
-<h3 align="center">A Passionate Full-Stack developer from Sri Lanka</h3>
+<h1 align="center">Hey, I'm Shazna Salman</h1>
+<h3 align="center">A Dedicated programmer embarking on a journey of discovery</h3>
 
 ---
 
 ### About Me
 
-I'm Shazna Salman , a self-employed university student passionate about coding and technology. I enjoy working on various projects and learning new technologies.
+Shazna Salman here!
+I'm a university student who loves coding and tech. I'm self-employed and enjoy taking on new projects while learning cool stuff along the way. 
 
 ### Technologies I Work With
 
@@ -27,15 +28,15 @@ I'm Shazna Salman , a self-employed university student passionate about coding a
 ---
 ### What I'm Working On
 
-- 🔭 I’m currently working on a personal project to build a web application for tracking and managing university assignments and deadlines.
+- 🔭 I’m currently working on a personal project to build a web application for food recipes around the world.
 
 ### What I'm Learning
 
-- 🌱 I’m currently learning about APIs with Node.js, Express.js, and MongoDB. It's an exciting journey into building robust backend systems.
+- 🌱 I’m currently learning about AI technology,IOT,robotics and currently engaged in their development.
 
 ### Collaboration Opportunities
 
-- 👯 I’m looking to collaborate on coding projects related to education technology or web development. If you have similar interests, feel free to reach out!
+- 👯 I'm eager to collaborate on projects related to exciting domains such as mobile app development, data science, artificial intelligence, and beyond. If you're interested in exploring these areas or have any other innovative ideas, feel free to reach out.
 
 <h3 align="center">My Statistics:</h3>
 <p align="center">
@@ -57,4 +58,4 @@ I'm Shazna Salman , a self-employed university student passionate about coding a
 
 ### How to Reach Me
 
-- 📫 You can reach out to me via email at shaznasalman10@gmail.com. I'm also active on LinkedIn, so feel free to connect with me there: https://www.linkedin.com/in/shaznasalman10/  .
+- 📫 Feel free to reach out to me via email at shaznasalman10@gmail.com. You can also connect with me on LinkedIn: https://www.linkedin.com/in/shaznasalman10/  .
