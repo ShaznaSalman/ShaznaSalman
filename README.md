@@ -10,8 +10,9 @@
 Shazna Salman here!
 I'm a university student who loves coding and tech. I'm self-employed and enjoy taking on new projects while learning cool stuff along the way. 
 
-![eb50875a68b04b0480fa929af2c7547c](https://github.com/ShaznaSalman/ShaznaSalman/assets/105789259/7014b83b-8183-4eb6-9a2c-3a691d5fecbc)
-
+<div style="text-align: center;">
+    &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/ShaznaSalman/ShaznaSalman/assets/105789259/8f163eab-1309-4b43-9844-482e79d21fdd" alt="pixel-study">
+</div>
 
 ### Technologies I Work With
 
